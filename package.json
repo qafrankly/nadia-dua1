@@ -1,0 +1,24 @@
+{
+  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_media_videoplayer.svg",
+  "tag": "nadia",
+  "affiliates": [
+    "WNOW"
+  ],
+  "propTypes": {
+       "title": "PropTypes.string",
+    "layout": "PropTypes.string"
+
+  },
+  "defaultProps": {
+    "title": "muzna test",
+    "zip": 10001,
+    "dayAmount": 10
+  },
+  "propChoices": {},
+  "FRN_resourceEndpoints": [
+    {
+      "url": "",
+      "type": "json"
+    }
+  ]
+}
